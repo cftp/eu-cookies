@@ -1,0 +1,44 @@
+
+#cftpeuc {
+	display: none;
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 999;
+}
+
+#cftpeuc h2 {
+	font-size: 17px;
+}
+
+#cftpeuc a, #cftpeuc p {
+	font-size: 11px;
+}
+
+#cftpeuc p {
+	margin-bottom: 0;
+	line-height: 1.4em;
+}
+
+#cftpeuc ul {
+	margin: 0;
+}
+
+#cftpeuc li {
+	list-style: none;
+	padding: 0;
+}
+
+#cftpeuc a {
+	color: #fff;
+	text-decoration: underline;
+}
+
+#cftpeuc #cftpeuc-ok {
+	font-size: 16px;
+	font-weight: bold;
+}
