@@ -1,0 +1,65 @@
+# Copyright (C) 2013 EU Cookies Notice
+# This file is distributed under the same license as the EU Cookies Notice package.
+msgid ""
+msgstr ""
+"Project-Id-Version: EU Cookies Notice 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/eu-cookies\n"
+"POT-Creation-Date: 2013-08-21 15:30:36+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: eu-cookies.php:101
+msgid "Cookie Notice \"More Info\" page"
+msgstr ""
+
+#: eu-cookies.php:125
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: eu-cookies.php:191
+msgid "This plugin template could not be found: %s"
+msgstr ""
+
+#: templates/cookie-message.php:2
+msgid "Cookies on the %s website"
+msgstr ""
+
+#: templates/cookie-message.php:3
+msgid ""
+"We use cookies to ensure that we give you the best experience on our website "
+"and to provide us with important information about visitors. By continuing "
+"to browse the site we&rsquo;ll assume that you are happy to receive all "
+"cookies set on the %s website."
+msgstr ""
+
+#: templates/cookie-message.php:5
+msgid "Continue"
+msgstr ""
+
+#: templates/cookie-message.php:7
+msgid "More information"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "EU Cookies Notice"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/cftp/eu-cookies"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds a notice to your site which complies with the EU e-Privacy Directive on "
+"cookies via implied constent. Compatible with static page caching."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid ""
+"<a href=\"http://johnblackbourn.com/\">John Blackbourn</a> & <a href=\"htp://"
+"codeforthepeople.com/\">Code for the People</a>"
+msgstr ""
