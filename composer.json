@@ -1,0 +1,16 @@
+{
+	"name"       : "cftp/eu-cookies",
+	"description": "Adds a notice to your site which complies with the EU e-Privacy Directive on cookies via implied constent. Compatible with static page caching.",
+	"homepage"   : "https://github.com/cftp/eu-cookies/",
+	"type"       : "wordpress-plugin",
+	"license"    : "GPL-2.0+",
+	"authors"    : [
+		{
+			"name"    : "Code For The People Ltd",
+			"homepage": "https://codeforthepeople.com/"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
